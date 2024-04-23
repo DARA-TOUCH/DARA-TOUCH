@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**DARA-TOUCH/DARA-TOUCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Welcome** to my ✨ Profile ✨. I a newbie.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on customs officer.
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on python project.
+- 🤔 I’m looking for help with these
+- 📫 How to reach me: touchdara2025@live.com
+- Interesting: AI, Web development using Django and automation.
+- ⚡ Hobbies: coding.
+

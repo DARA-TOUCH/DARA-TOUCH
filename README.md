@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Welcome** to my ✨ Profile ✨. I a newbie.
+**Welcome** to my ✨ Profile ✨. I am a newbie.
 
 Here are some ideas to get you started:
 
